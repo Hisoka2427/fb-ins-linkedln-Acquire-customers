@@ -1,0 +1,6 @@
+﻿*
+!.gitignore
+!crm/
+!crm/**
+crm/__pycache__/
+*.pyc
